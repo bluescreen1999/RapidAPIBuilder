@@ -1,0 +1,6 @@
+@RapidAPIBuilder_HostAddress = http://localhost:5293
+
+GET {{RapidAPIBuilder_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
