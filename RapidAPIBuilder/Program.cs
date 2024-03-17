@@ -5,7 +5,7 @@ using RapidAPIBuilder.ApiBuilder;
 using RapidAPIBuilder.Models.Entties;
 using RapidAPIBuilder.Models.Dtos.Tags;
 using RapidAPIBuilder.Models.Validators.Tags;
-using RapidAPIBuilder.Models.ProfileMappings;
+using RapidAPIBuilder.Models.MappingProfiles;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -2,7 +2,7 @@
 using RapidAPIBuilder.Models.Dtos.Tags;
 using RapidAPIBuilder.Models.Entties;
 
-namespace RapidAPIBuilder.Models.ProfileMappings;
+namespace RapidAPIBuilder.Models.MappingProfiles;
 
 public class TagMappingProfile : Profile
 {
